@@ -1,2 +1,3 @@
-# cicd-demo
-CICD Demo 
+Flask web app by CI/CD pipeline
+
+
